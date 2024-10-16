@@ -38,6 +38,6 @@ The project represents an alpha version of a spaceship.
 - There are currently two tests (`GT4500Test`), but be aware that they are not proper unit tests, as they do not isolate the dependencies of the tested class.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
-![example workflow](https://github.com/Gre4tness/se-lab/blob/81af09ee623f38677226280b9e3cc711c133b45f/.github/workflows/maven.yml/badge.svg)
+![example workflow](https://github.com/Gre4tness/se-lab/actions/workflows/maven.yml/badge.svg)
 
 
